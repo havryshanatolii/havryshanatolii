@@ -1,20 +1,20 @@
+<img src="./assets/header.svg" width="100%" alt="Anatolii Havrysh — Senior Full-Stack Engineer"/>
+
+<p align="center">
+  <a href="https://github.com/havryshanatolii"><code>@havryshanatolii</code></a> · 📍 Lviv, Ukraine 🇺🇦
+</p>
+
+<p align="center">
+  <img src="./assets/typing.svg" alt="Logistics · SaaS · Web + Mobile"/>
+</p>
+
+<p align="center">
+  <img src="./assets/tags.svg" alt="End-to-End Ownership · GraphQL & REST APIs · Data Modeling & Performance · Web + Mobile"/>
+</p>
+
+<br/>
+
 <div align="center">
-
-<br/>
-
-$$\Huge\textsf{\textbf{Anatolii Havrysh}}$$
-
-$$\large\textsf{SENIOR FULL-STACK ENGINEER}$$
-
-<a href="https://github.com/havryshanatolii"><code>@havryshanatolii</code></a> · 📍 Lviv, Ukraine 🇺🇦
-
-<br/>
-
-$$\color{#2A7A8C}\LARGE\texttt{Logistics · SaaS · Web + Mobile}$$
-
-$$\color{#22d3ee}\textsf{End-to-End Ownership}\quad\color{#a78bfa}\textsf{GraphQL and REST APIs}\quad\color{#4ade80}\textsf{Data Modeling and Performance}\quad\color{#f87171}\textsf{Web + Mobile}$$
-
-<br/>
 
 <h2><code>TECH STACK</code></h2>
 
@@ -112,3 +112,5 @@ const anatolii = {
 `~ thanks for stopping by ~`
 
 </div>
+
+<img src="./assets/footer.svg" width="100%"/>
