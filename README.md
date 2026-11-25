@@ -12,7 +12,7 @@ $$\large\textsf{SENIOR FULL-STACK ENGINEER}$$
 
 $$\color{#2A7A8C}\LARGE\texttt{Logistics · SaaS · Web + Mobile}$$
 
-$$\colorbox{#cffafe}{\textsf{ End-to-End Ownership }}\ \colorbox{#ede9fe}{\textsf{ GraphQL and REST APIs }}\ \colorbox{#dcfce7}{\textsf{ Data Modeling and Performance }}\ \colorbox{#fee2e2}{\textsf{ Web + Mobile }}$$
+$$\color{#22d3ee}\textsf{End-to-End Ownership}\quad\color{#a78bfa}\textsf{GraphQL and REST APIs}\quad\color{#4ade80}\textsf{Data Modeling and Performance}\quad\color{#f87171}\textsf{Web + Mobile}$$
 
 <br/>
 
