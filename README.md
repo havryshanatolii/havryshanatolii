@@ -55,7 +55,7 @@
 
 <br/>
 
-### `WHOAMI`
+### `WHO I AM`
 
 I'm **Anatolii** — a full-stack engineer with **5+ years** of experience building web and mobile products.
 Most recently a senior engineer on a **logistics & last-mile delivery platform**, owning modules end to end:
@@ -87,28 +87,4 @@ const anatolii = {
 
 **⚙️ Uptech** — *Ukraine · SaaS platforms & custom web apps*
 - **Middle Full-Stack Engineer** · Aug 2022 – Aug 2023 — SaaS frontends, NestJS/Express APIs, AI features with OpenAI API, payments, Docker & AWS
-- **Junior Full-Stack Engineer** · Apr 2021 – Aug 2022 — React/TypeScript interfaces, Node.js endpoints, auth & testing
-
-<br/>
-
-### `EDUCATION`
-
-**Lutsk National Technical University**
-- Master's degree, Engineering Science · 2023 – 2024
-- Bachelor of Engineering, Information Technology · 2019 – 2023
-
-<br/>
-
-<div align="center">
-
-### `LET'S BUILD SOMETHING`
-
-📍 Lviv, Ukraine · ✉️ [havryshanatolii@gmail.com](mailto:havryshanatolii@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-f6f8fa?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/anatolii-havrysh-403914450)
-[![GitHub](https://img.shields.io/badge/GitHub-f6f8fa?style=for-the-badge&logo=github&logoColor=181717)](https://github.com/havryshanatolii)
-[![Gmail](https://img.shields.io/badge/Gmail-f6f8fa?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:havryshanatolii@gmail.com)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:cffafe,50:ede9fe,100:e0f2fe&height=120&section=footer" width="100%" alt="footer" />
+-
