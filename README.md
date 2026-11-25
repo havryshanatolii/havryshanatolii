@@ -1,21 +1,61 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════╗
-║                                                  ║
-║                 ANATOLII HAVRYSH                 ║
-║    senior full-stack engineer · web & mobile     ║
-║                                                  ║
-║            > system online — welcome_            ║
-║                                                  ║
-╚══════════════════════════════════════════════════╝
-```
+<br/>
 
-**[@havryshanatolii](https://github.com/havryshanatolii)** · 📍 Lviv, Ukraine 🇺🇦
+$$\Huge\textsf{\textbf{Anatolii Havrysh}}$$
 
-`React` · `TypeScript` · `Node.js` · `NestJS` · `GraphQL` · `React Native`
+$$\large\textsf{SENIOR FULL-STACK ENGINEER}$$
+
+<a href="https://github.com/havryshanatolii"><code>@havryshanatolii</code></a> · 📍 Lviv, Ukraine 🇺🇦
+
+<br/>
+
+$$\color{#2A7A8C}\LARGE\texttt{Logistics · SaaS · Web + Mobile}$$
+
+$$\colorbox{#cffafe}{\textsf{ End-to-End Ownership }}\ \colorbox{#ede9fe}{\textsf{ GraphQL and REST APIs }}\ \colorbox{#dcfce7}{\textsf{ Data Modeling and Performance }}\ \colorbox{#fee2e2}{\textsf{ Web + Mobile }}$$
+
+<br/>
+
+<h2><code>TECH STACK</code></h2>
 
 </div>
+
+<p align="center">
+  <kbd>&nbsp;TYPESCRIPT&nbsp;</kbd>
+  <kbd>&nbsp;REACT&nbsp;</kbd>
+  <kbd>&nbsp;NEXT.JS&nbsp;</kbd>
+  <kbd>&nbsp;REDUX&nbsp;</kbd>
+  <kbd>&nbsp;REACT QUERY&nbsp;</kbd>
+  <kbd>&nbsp;ZUSTAND&nbsp;</kbd>
+  <kbd>&nbsp;TAILWIND CSS&nbsp;</kbd>
+</p>
+
+<p align="center">
+  <kbd>&nbsp;REACT NATIVE&nbsp;</kbd>
+  <kbd>&nbsp;EXPO&nbsp;</kbd>
+  <kbd>&nbsp;NODE.JS&nbsp;</kbd>
+  <kbd>&nbsp;NESTJS&nbsp;</kbd>
+  <kbd>&nbsp;EXPRESS&nbsp;</kbd>
+  <kbd>&nbsp;GRAPHQL&nbsp;</kbd>
+  <kbd>&nbsp;WEBSOCKETS&nbsp;</kbd>
+  <kbd>&nbsp;OPENAI API&nbsp;</kbd>
+</p>
+
+<p align="center">
+  <kbd>&nbsp;POSTGRESQL&nbsp;</kbd>
+  <kbd>&nbsp;PRISMA&nbsp;</kbd>
+  <kbd>&nbsp;MONGODB&nbsp;</kbd>
+  <kbd>&nbsp;REDIS&nbsp;</kbd>
+</p>
+
+<p align="center">
+  <kbd>&nbsp;DOCKER&nbsp;</kbd>
+  <kbd>&nbsp;AWS&nbsp;</kbd>
+  <kbd>&nbsp;GITHUB ACTIONS&nbsp;</kbd>
+  <kbd>&nbsp;NX&nbsp;</kbd>
+  <kbd>&nbsp;JEST&nbsp;</kbd>
+  <kbd>&nbsp;PLAYWRIGHT&nbsp;</kbd>
+</p>
 
 ---
 
@@ -35,18 +75,6 @@ const anatolii = {
   openTo: "interesting products & teams",
 };
 ```
-
----
-
-## 🛠️ Tech Stack
-
-| | |
-|---|---|
-| 🎨 **Frontend** | `React` `Next.js` `TypeScript` `Redux` `React Query` `Zustand` `Tailwind CSS` `Material UI` |
-| 📱 **Mobile** | `React Native` `Expo` |
-| ⚙️ **Backend** | `Node.js` `NestJS` `Express.js` `GraphQL` `REST` `WebSockets` `JWT / OAuth` `OpenAI API` |
-| 🗄️ **Data** | `PostgreSQL` `MongoDB` `Redis` `Prisma` |
-| 🧰 **Tooling** | `Docker` `AWS` `GitHub Actions` `Nx` `Git` `Jest` `Playwright` |
 
 ---
 
